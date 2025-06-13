@@ -16,7 +16,6 @@
       "blocks": {
         "divider_hFm3am": {
           "type": "_divider",
-          "name": "t:names.divider",
           "settings": {
             "thickness": 1,
             "corner_radius": "square",
@@ -28,7 +27,6 @@
         },
         "group_tbFfTQ": {
           "type": "group",
-          "name": "Join the club",
           "settings": {
             "link": "",
             "open_in_new_tab": false,
@@ -67,7 +65,6 @@
           "blocks": {
             "group_4aCyy7": {
               "type": "group",
-              "name": "t:names.group",
               "settings": {
                 "link": "",
                 "open_in_new_tab": false,
@@ -106,7 +103,6 @@
               "blocks": {
                 "text_3L9Fjq": {
                   "type": "text",
-                  "name": "Heading",
                   "settings": {
                     "text": "<h2>Join the club</h2>",
                     "width": "fit-content",
@@ -132,7 +128,6 @@
                 },
                 "text_eC4rXd": {
                   "type": "text",
-                  "name": "Text",
                   "settings": {
                     "text": "<p>Get exclusive deals and early access to new products. </p>",
                     "width": "fit-content",
@@ -164,7 +159,6 @@
             },
             "email_signup_NcLwNb": {
               "type": "email-signup",
-              "name": "t:names.email_signup",
               "settings": {
                 "width": "custom",
                 "custom_width": 50,
@@ -194,7 +188,6 @@
         },
         "footer_utilities_KRaGcH": {
           "type": "footer-utilities",
-          "name": "t:names.footer_utilities",
           "settings": {
             "divider_thickness": 0,
             "padding-block-start": 12,
@@ -227,7 +220,6 @@
               "blocks": {
                 "social_link_JnLXB6": {
                   "type": "_social-link",
-                  "name": "Facebook",
                   "settings": {
                     "link": "https://www.facebook.com/shopify"
                   },
@@ -235,7 +227,6 @@
                 },
                 "social_link_9i9EqD": {
                   "type": "_social-link",
-                  "name": "Instagram ",
                   "settings": {
                     "link": "https://www.instagram.com/shopify/#"
                   },
@@ -243,7 +234,6 @@
                 },
                 "social_link_kd8UUt": {
                   "type": "_social-link",
-                  "name": "TikTok",
                   "settings": {
                     "link": "https://www.tiktok.com/@shopify"
                   },
@@ -251,7 +241,6 @@
                 },
                 "social_link_Qw9AXL": {
                   "type": "_social-link",
-                  "name": "X / Twitter",
                   "settings": {
                     "link": "https://x.com/shopify"
                   },
@@ -259,7 +248,6 @@
                 },
                 "social_link_aAH768": {
                   "type": "_social-link",
-                  "name": "YouTube",
                   "settings": {
                     "link": "https://www.youtube.com/shopify"
                   },
@@ -283,7 +271,7 @@
         "group_tbFfTQ",
         "footer_utilities_KRaGcH"
       ],
-      "name": "Footer",
+      "disabled": true,
       "settings": {
         "content_direction": "column",
         "vertical_on_mobile": true,
