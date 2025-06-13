@@ -1,0 +1,5 @@
+/* Section: Backed by Numbers - Custom Styles */
+#shopify-section-template--22956271960410__backed_by_numbers .h1 {
+  font-size: 4rem; /* Passen Sie diesen Wert an, z.B. 4rem oder 64px */
+  margin-bottom: 3rem; /* Erhöht den Abstand zu den Zahlen darunter */
+}
